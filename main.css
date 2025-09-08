@@ -71,3 +71,15 @@ header nav ul li a {
 body {
     background-color: lightblue;
 }
+h1, h2, h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+ footer {
+            background-color: #f0f8ff;
+            padding: 20px;
+            text-align: center;
+            margin-top: 40px;
+            border-top: 2px solid #ccc;
+        }
